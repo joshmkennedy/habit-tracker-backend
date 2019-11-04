@@ -1,0 +1,18 @@
+Add Password and Email to users 
+  - use those fields to authenticate user ✅
+  - add bycrpt and encrypt password ✅
+
+
+Add Jwt to CreateUser Resolver  ✅
+  - and chanage name of resolver to SignUp✅
+
+Create A TimeComplete table in database ✅
+ -  complete_time_id (Primary Key)✅
+ -  time ✅
+ -  habit_id (Foreign Key) ✅
+
+ Create TimeCompletedType in schema✅
+  - add it to the HabitType as a Graphql list.✅
+  - add mutation create timeCompleted for habit
+
+  Add Me Mutations that use the context user.id to as the user_id
